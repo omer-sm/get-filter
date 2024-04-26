@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "webfilter@omer-sm.github.io": {
+      "updates": [
+        {
+          "version": "0.1",
+          "update_link": "https://github.com/omer-sm/get-filter/extension.xpi"
+        }
+      ]
+    }
+  }
+}
